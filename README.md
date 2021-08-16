@@ -8,7 +8,7 @@ TODO
 
 ## Install
 
-1. Download *.jar from Releases.
+1. Download *.jar from Releases (or [Actions](https://github.com/gemmaro/gitbucket-chess-plugin/actions) > select build action > Artifacts).
 2. Deploy it to `GITBUCKET_HOME/plugins`.
 3. Restart GitBucket or reload plugins.
 
