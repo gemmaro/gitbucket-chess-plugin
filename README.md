@@ -4,7 +4,7 @@ A GitBucket plugin for rendering PGN chess file with `.pgn` extension.
 
 ## Screenshot
 
-TODO
+![screenshot](screenshot.png)
 
 ## Install
 
