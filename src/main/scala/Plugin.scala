@@ -11,7 +11,8 @@ class Plugin extends gitbucket.core.plugin.Plugin {
   override val pluginName: String = "Chess Plugin"
   override val description: String = "Rendering PGN chess files."
   override val versions: List[Version] = List(
-    new Version("1.0.0")
+    new Version("1.0.0"),
+    new Version("1.0.1")
   )
 
   private[this] var renderer: Option[ChessRenderer] = None

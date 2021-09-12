@@ -1,5 +1,5 @@
 name := "gitbucket-chess-plugin"
 organization := "io.github.gitbucket"
-version := "1.0.0"
+version := "1.0.1"
 scalaVersion := "2.13.6"
 gitbucketVersion := "4.36.0"
